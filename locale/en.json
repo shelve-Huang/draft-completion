@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Draft completion",
+    "description": "Adds a Complete button immediately left of the model selector in the message composer. A click sends the current draft to the selected model, replaces the draft with a rewritten and more complete prompt, and turns the button into Revert — the two are never shown together. Revert restores the exact text from before the rewrite, and stays available only until the draft is edited; the first edit drops it and Complete returns, so that completion can no longer be undone. Each click makes one extra model request billed to your provider account and sends the draft text to that provider. Turning the plugin off removes both the button and its endpoint."
+  }
+}
