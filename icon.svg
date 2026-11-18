@@ -1,0 +1,16 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="7.5" y="14" width="11" height="2.8" rx="1.4" fill="url(#draft-completion-body)" />
+  <rect x="7.5" y="19" width="15" height="2.8" rx="1.4" fill="url(#draft-completion-body)" />
+  <rect x="7.5" y="24" width="7.5" height="2.8" rx="1.4" fill="url(#draft-completion-body)" fill-opacity="0.45" />
+  <path d="M25.5 7L26.8 10.2L30 11.5L26.8 12.8L25.5 16L24.2 12.8L21 11.5L24.2 10.2Z" fill="url(#draft-completion-spark)" />
+  <defs>
+    <linearGradient id="draft-completion-body" x1="7.5" y1="14" x2="22.5" y2="26.8" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6FB2EE" />
+      <stop offset="1" stop-color="#3E58D6" />
+    </linearGradient>
+    <linearGradient id="draft-completion-spark" x1="21" y1="7" x2="30" y2="16" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7ED9FF" />
+      <stop offset="1" stop-color="#4C7DF0" />
+    </linearGradient>
+  </defs>
+</svg>
