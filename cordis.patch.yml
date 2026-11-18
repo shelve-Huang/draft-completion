@@ -1,0 +1,3 @@
+- insert:
+    - id: draft-completion
+      name: '@local/draft-completion'
